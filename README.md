@@ -55,6 +55,13 @@ A real-time chat application that demonstrates:
 - Real-time communication
 - Client-server architecture
 
+### 8. [Lexical Analyzer](lexical-analyser/)
+A simple compiler front-end component that demonstrates:
+- Tokenization of source code
+- Parsing techniques
+- Compiler design principles
+- String manipulation
+
 ## Getting Started
 
 Each project in this repository is designed to be self-contained and includes:
